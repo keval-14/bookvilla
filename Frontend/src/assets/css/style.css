@@ -9,6 +9,7 @@
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  /* background-color: #F0EBE3; */
 }
 
 *,
@@ -238,7 +239,7 @@ body {
   line-height: 1.25;
   font-weight: 400;
   color: #414141;
-  background-color: #e6e6e6;
+  background-color: #cecbc5;
 }
 
 .container {
@@ -461,6 +462,24 @@ body.open-menu {
     line-height: 40px;
   }
 }
+
+/* custom css by me to change look of frontend */
+.makeStyles-headerWrapper-1 .site-header .bottom-header {
+  padding: 18px 0;
+  background-color: #a8a8a8;
+}
+.makeStyles-footerWrapper-9 .site-footer {
+  padding: 40px 0;
+  background-color: #d1d1d1 !important;
+}
+.makeStyles-footerWrapper-9 .site-footer .bottom-footer .text-center .copyright-text {
+  color: #000000 !important;
+  font-size: 13px;
+  margin-top: 15px;
+  font-weight: 300;
+  line-height: 1.8;
+}
+
 
 @media (max-width: 574px) {
   .pagination-wrapper .MuiPagination-ul .MuiPaginationItem-root {

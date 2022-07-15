@@ -7,7 +7,7 @@ import { RoutePaths } from "../utils/enum";
 import Header from "./header";
 // import PrivateRoute from "./PrivateRoute";
 
-//component lazy loading
+// component lazy loading
 // const Login = lazy(() => import("../pages/login/index"));
 // const Register = lazy(() => import("../pages/register/index"));
 // const User = lazy(() => import("../pages/user/index"));
@@ -17,7 +17,7 @@ import Header from "./header";
 // const Book = lazy(() => import("../pages/book/index"));
 // const EditBook = lazy(() => import("../pages/book/editBook/index"));
 // const BookList = lazy(() => import("../pages/book-listing/index"));
-// const Cart = lazy(() => import("../pages/cart/index"));
+const Cart = lazy(() => import("../pages/cart/index"));
 // const UpdateProfile = lazy(() => import("../pages/update-profile/index"));
 
 const AppRoutes: React.FC = () => {
