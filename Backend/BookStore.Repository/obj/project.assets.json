@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Repository\\BookStore.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Repository\\BookStore.Repository.csproj",
       "projectName": "BookStore.Repository",
-      "projectPath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Repository\\BookStore.Repository.csproj",
+      "projectPath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Repository\\BookStore.Repository.csproj",
       "packagesPath": "C:\\Users\\keval\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Repository\\obj\\",
+      "outputPath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keval\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -724,8 +724,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Models\\BookStore.Models.csproj": {
-              "projectPath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Models\\BookStore.Models.csproj"
+            "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Models\\BookStore.Models.csproj": {
+              "projectPath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Models\\BookStore.Models.csproj"
             }
           }
         }

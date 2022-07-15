@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4owXYqmtiqyXeW/lhGnpKpAe6I/XqGEfeYLBRab0jsQisfxP98M8SRZKlA+qDu6KBpKg38gWKXA4X1AxzeObYw==",
+  "dgSpecHash": "a5krVKtd0QqDfd49CSzWZZN5H0AS2tIrqN+Cp2jpWwmh7dYHtVZzxxrQsd3amf7wFISx9OqO3vqRRfts5GuTBw==",
   "success": true,
-  "projectFilePath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Models\\BookStore.Models.csproj",
+  "projectFilePath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Models\\BookStore.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\keval\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\keval\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

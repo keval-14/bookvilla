@@ -904,11 +904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Api\\BookStore.Api.csproj",
+      "projectUniqueName": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Api\\BookStore.Api.csproj",
       "projectName": "BookStore.Api",
-      "projectPath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Api\\BookStore.Api.csproj",
+      "projectPath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Api\\BookStore.Api.csproj",
       "packagesPath": "C:\\Users\\keval\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Api\\obj\\",
+      "outputPath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keval\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -925,11 +925,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Models\\BookStore.Models.csproj": {
-              "projectPath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Models\\BookStore.Models.csproj"
+            "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Models\\BookStore.Models.csproj": {
+              "projectPath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Models\\BookStore.Models.csproj"
             },
-            "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Repository\\BookStore.Repository.csproj": {
-              "projectPath": "E:\\work\\react\\Internship\\BookVilla\\BookStore\\BookStore.Repository\\BookStore.Repository.csproj"
+            "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Repository\\BookStore.Repository.csproj": {
+              "projectPath": "C:\\Users\\keval\\Desktop\\BookVilla\\Backend\\BookStore.Repository\\BookStore.Repository.csproj"
             }
           }
         }
